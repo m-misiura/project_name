@@ -1,7 +1,7 @@
 project_name
 ==============================
 
-A short description of the project. Another short description of the project.
+A short description of the project. Another short description of the project. Another description!
 
 Project Organization
 ------------
